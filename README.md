@@ -57,8 +57,8 @@ With the trained model in hand, the focus shifted towards deployment, ensuring s
 To delve deeper into the project's implementation and results, the following resources are available:
 
 1. [Code Explanation](https://drive.google.com/file/d/1WTjTWTTW2LntxyUWlAmbOi5sDvM4IaJS/view?usp=sharing)
-2. [Notebook Testing and Validation Video]([link_to_notebook_testing_video](https://drive.google.com/file/d/1u6YczEk59BMh3lEek6Atr-KCqB6vAPLA/view?usp=sharing))
-3. [Deployment Video]([link_to_deployment_video](https://drive.google.com/file/d/1EkK_CCFc3tQZbK1TPSrDBXcCjJPMKsCC/view?usp=sharing))
+2. [Notebook Testing and Validation Video](https://drive.google.com/file/d/1u6YczEk59BMh3lEek6Atr-KCqB6vAPLA/view?usp=sharing)
+3. [Deployment Video](https://drive.google.com/file/d/1EkK_CCFc3tQZbK1TPSrDBXcCjJPMKsCC/view?usp=sharing)
 
 These resources provide comprehensive insights into the project's methodology, experimental setup, and outcomes, facilitating a thorough understanding of the undertaken endeavor.
 
